@@ -1,0 +1,7 @@
+00_fix-configure.in.patch
+01_Makefile.am.patch
+03_fails-to-write.patch
+05_MAXPATHLEN.patch
+06_sizeof_FTBFS.patch
+07_fix-spelling-in-binaries.patch
+08_fix-manpage.patch

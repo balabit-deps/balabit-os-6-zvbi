@@ -1,0 +1,2 @@
+version=3
+http://sf.net/zapping/zvbi-(\d\S+)\.tar\.(?:bz2|gz|xz)
